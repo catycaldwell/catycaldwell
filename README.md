@@ -1,7 +1,8 @@
 ### Hi there 👋🏿
 
 Hello, there! I'm Caty 👋🏿
-😄 Pronouns: they/them and she/her (Preference: they/them)
+
+Pronouns: they/them and she/her (Preference: they/them)
 
 I'm a Technical PM at Facebook who merges art, code, film, and text to dismantle hierarchies. For my day job, I excavate the set of developer and creator tools and services for AR/VR creators. I'm passionate about challenging our collective disillusionment around developer productivity, increasing the number of Black developers and creators, and embracing more collective futures. 
 
